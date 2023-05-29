@@ -1,3 +1,3 @@
 # TP-Link-vxWorks-fix
 
-IDA
+IDA >=7.5
